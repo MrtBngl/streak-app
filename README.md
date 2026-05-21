@@ -49,7 +49,7 @@ Make sure you have the following installed on your computer:
 ### 2. Clone the Repository
 Open your terminal or command prompt and run the following commands to clone the repository and navigate into the project folder:
 ```bash
-git clone [https://github.com/MrtBngl/streak-app.git](https://github.com/YOUR_GITHUB_USERNAME/streak-app.git)
+git clone [https://github.com/MrtBngl/streak-app.git](https://github.com/MrtBngl/streak-app.git)
 cd streak-app
 ```
 ### 3. Install Dependencies
